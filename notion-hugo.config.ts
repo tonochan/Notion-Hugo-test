@@ -4,7 +4,7 @@ const userConfig: UserConfig = {
     base_url: "https://notion-hugo-test.pages.dev",
     mount: {
         manual: false,
-        page_url: 'https://www.notion.so/tonochan/Notion-Hugo-19d3f357b6a8807299ddfdd1d817d90f?pvs=4',
+        page_url: 'https://tonochan.notion.site/bb412692038f46b680e0c2ce8c7b4722?pvs=4',
         pages: [
             // {
             //     page_id: '<page_id>',
